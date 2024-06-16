@@ -1,0 +1,6 @@
+@DotNetDeveloperRecruitmentTask_HostAddress = http://localhost:5156
+
+GET {{DotNetDeveloperRecruitmentTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
